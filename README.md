@@ -3,6 +3,8 @@
 
 程式示範碼：如何在 jQuery 使用 DevExtreme 。
 
+程式示範網址：　https://alanjui.github.io/jQuery_DevExtreme/(https://alanjui.github.io/jQuery_DevExtreme/)
+
 # 安裝作業
 
 ## (1) 事前準備
