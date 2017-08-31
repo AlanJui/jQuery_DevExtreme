@@ -5,7 +5,7 @@
 
 # 安裝作業
 
-##(1) 事前準備
+## (1) 事前準備
 
 工作環境須已完成下列軟體之安裝：
 
@@ -23,7 +23,7 @@
     5.3.0
     ```
 
-##(2) 自 GitHub 下載本專案原始程式碼
+## (2) 自 GitHub 下載本專案原始程式碼
 
 依據下列之操作指示，自 GitHub Repo 將檔案複製（Clone）到個人電腦的「工作目錄」中。
 
@@ -31,7 +31,7 @@
     $ git clone git@github.com:AlanJui/jQuery_DevExtreme.git
     $ cd jQuery_DevExtreme
 
-##(3) 安裝專案使用之 NodeJS Module 檔案
+## (3) 安裝專案使用之 NodeJS Module 檔案
 
 透過 package.json 設定檔，安裝屬專案層級（Local）的 NodeJS 模組檔案。
 
@@ -39,11 +39,11 @@
 
 # 執行作業
 
-##(1) 啟動 Web Server
+## (1) 啟動 Web Server
 
     $ npm start
 
-##(2) 使用 Web 瀏覽器觀看輸出結果
+## (2) 使用 Web 瀏覽器觀看輸出結果
 
     （１）啟動 Web 瀏覽器
 
