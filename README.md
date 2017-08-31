@@ -28,8 +28,8 @@
 依據下列之操作指示，自 GitHub Repo 將檔案複製（Clone）到個人電腦的「工作目錄」中。
 
     $ cd <工作目錄>
-    $ git clone https://github.com/AlanJui/ES2015.git
-    $ cd ES2015
+    $ git clone git@github.com:AlanJui/jQuery_DevExtreme.git
+    $ cd jQuery_DevExtreme
 
 ##(3) 安裝專案使用之 NodeJS Module 檔案
 
