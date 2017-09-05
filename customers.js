@@ -1,4 +1,4 @@
-const SERVICE_URL = 'http://192.168.66.11:5000/api/Customers';
+const SERVICE_URL = 'http://127.0.0.1:5000/api/Customers';
 
 var myStore = new DevExpress.data.CustomStore({
     load: function(loadOptions) {
