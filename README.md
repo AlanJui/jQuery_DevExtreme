@@ -1,9 +1,13 @@
-使用指引
+專案指引
 =======
 
 程式示範碼：如何在 jQuery 使用 DevExtreme 。
 
-程式示範網址：　https://alanjui.github.io/jQuery_DevExtreme/
+Web Server 端程式網址：　https://github.com/AlanJui/AspNetCore2-MSSQL-WebAPI
+
+對於採用 ASP.NET Core Web API 技術，實作 RESTful Service 時，除了如官網所說，在 Web Client 端需要使用 CustomStore 來實作 DataScource 外，更重要的是，無論 Web Client 或 Server 端，都需要配合使用 DevExtreme.AspNet.Data 這元件。
+
+細節說明，請參考 GitHub 的 [《DevExtreme ASP.NET Data》](https://github.com/DevExpress/DevExtreme.AspNet.Data)文件。
 
 # 安裝作業
 
@@ -49,8 +53,8 @@
 
     （１）啟動 Web 瀏覽器
 
-    （２）在 URL 網址列輸入：　http://127.0.0.1:8080 
+    （２）在 URL 網址列輸入：　http://127.0.0.1:3000 
 
-  [附註]：本專案使用的 Local Web Server 為 http-server （使用 NodeJS 技術開發而成），不知是否有 Bug 、還是另有其它因素，若網址改成： http://localhost:8080 ，網頁會是一片空白，且無任何錯誤訊息。
+  [附註]：本專案使用的 Local Web Server 為 http-server （使用 NodeJS 技術開發而成），不知是否有 Bug 、還是另有其它因素，若網址改成： http://localhost:3000 ，網頁會是一片空白，且無任何錯誤訊息。
 
 
